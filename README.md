@@ -1,5 +1,5 @@
 # Canvas com Fila
-Trabalho de Estruturas de Dados utilizando **Fila**.  
+Trabalho de Estruturas de Dados I do 3º semestre utilizando **Fila**.  
 Este trabalho consiste em preencher uma dada coordenada do Canvas a partir da coordenada oferecida pelo usuário ou por um arquivo.  
 O Canvas é organizado em uma estrutura 2D com coordenadas de 0 a 7.  
 O _main.exe_ possui o menu do programa.
