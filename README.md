@@ -8,13 +8,16 @@ O _main.exe_ possui o menu do programa.
 Esta operação consiste em **preencher** uma coordenada ou **descolorir** uma coordenada já preenchida.  
 Só são aceitos dígitos de 0 até 7.  
 Cada coordenada inserida é armazenada em uma Fila para as outras operações do programa.  
+---
 ### Executar sequência da comandos
 Esta opção realiza todas as mundaças feitas no Canvas utilizando a Fila com as coordenadas que foram inseridas.  
 O programa reinicia o canvas e muda uma coordenada por vez. Cada vez que uma coordenada é alterada, a Fila diminui de tamanho. Portanto, esta operação **esvazia** a Fila.  
+---
 ### Salvar comandos em um arquivo
 Esta operação consiste em salvar as coordenadas da Fila em um arquivo _txt_.  
 O canvas é reiniciado quando esta operação termina.  
 Selecionar esta operação mais de uma vez **sobrescreve** qualquer conteúdo do arquivo que já estava armazenado.  
+---
 ### Carregar comandos de um arquivo
 Esta operação consiste em realizar a leitura do arquivo com as coordenadas.  
 Após ler o arquivo, o canvas é preenchido com as coordenadas alteradas e a elas são inseridas na Fila.  
